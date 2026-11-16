@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Gmail__reply",
+      "mcp__Gmail__label_thread",
+      "mcp__Gmail__unlabel_thread",
+      "mcp__Gmail__label_message"
+    ]
+  }
+}
